@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Frontend Developer turning ideas into gold pixels<br>Currently learning nextjs for Backend with Prisma ORM as Databse<br>I love creating UI's
+I am a Frontend Developer turning ideas into gold pixels<br>Currently learning nextjs for Backend with Prisma ORM <br>I love creating UI's
 
 
 # 💻 Tech Stack:
