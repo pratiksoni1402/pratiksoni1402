@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Frontend Developer turning ideas into gold pixels<br>Currently learning nextjs for Backend with Prisma ORM <br>I love creating UI's
+I specialize in crafting visually stunning and user-friendly UI's ,turning ideas into pixel perfect design. Skilled in crafting dynamic, responsive, and user-friendly web interfaces. With expertise in HTML, CSS, JavaScript, React.js, Tailwind CSS, and Bootstrap, I bring innovative designs to life.
 
 
 # 💻 Tech Stack:
