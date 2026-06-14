@@ -1,17 +1,44 @@
-# 💫 About Me:
-I specialize in crafting visually stunning and user-friendly UI's ,turning ideas into pixel perfect design. Skilled in crafting dynamic, responsive, and user-friendly web interfaces. With expertise in HTML, CSS, JavaScript, React.js, Tailwind CSS, and Bootstrap, I bring innovative designs to life.
+<h1 align="center">
+  Hi 👋, I'm Pratik Soni
+</h1>
 
-Portfolio - https://pratiksoni.dev/
+<p align="center">
+  Crafting modern, scalable & interactive web experiences using React and TypeScript.
+</p>
+
+## 🚀 About Me
+
+- 💼 Frontend Developer with 2+ years of experience
+- ⚛️ Building scalable React & TypeScript applications
+- 🎨 Love creating smooth UI/UX and animations
+- 🌱 Currently learning advanced React patterns & architecture
+- 🌐 Portfolio - https://pratiksoni.dev/
+
+## 🛠️ Tech Stack
+
+### Frontend
+React • TypeScript • JavaScript • Tailwind CSS • Next.js
+
+### Styling & Animation
+CSS • Framer Motion
+
+### Backend & Database
+MongoDB • MySQL
+
+### Tools
+Git • GitHub • Vercel • Figma 
 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pratiksoni1402&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pratiksoni1402&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pratiksoni1402&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pratiksoni1402&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksoni1402&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pratiksoni1402&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
